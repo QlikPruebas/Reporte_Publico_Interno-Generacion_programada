@@ -1,0 +1,29 @@
+{
+  "qInfo": {
+    "qId": "28f02b5a-762a-4395-80e4-a9d37f2343ea",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Comparación Generación",
+    "qDef": "RANGESUM([Generacion PID], [Generacion PCP] , [Generacion PMP] , [Generacion PLP])",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qLabelExpression": "='Generación ['&vEscalaGeneracion&'] - Comparación'",
+    "qNumFormat": {
+      "qType": "F",
+      "qnDec": 2,
+      "qUseThou": 0,
+      "qFmt": "#,##0",
+      "qDec": ".",
+      "qThou": ","
+    },
+    "coloring": {},
+    "isCustomFormatted": false
+  },
+  "qMetaDef": {
+    "title": "Comparación Generación",
+    "description": "",
+    "tags": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "998c7cf1-699f-4125-b9b0-b0f271bf5d5f",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "zona"
+    ],
+    "qFieldLabels": [
+      "Zona"
+    ],
+    "qLabelExpression": "='Zona'",
+    "title": "Zona",
+    "coloring": {
+      "colorMapRef": "kQHQeD",
+      "changeHash": "0.36463305069182894"
+    }
+  },
+  "qMetaDef": {
+    "title": "Zona",
+    "description": "",
+    "tags": []
+  }
+}

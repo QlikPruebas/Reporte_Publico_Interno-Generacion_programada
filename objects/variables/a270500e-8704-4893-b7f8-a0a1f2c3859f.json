@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "a270500e-8704-4893-b7f8-a0a1f2c3859f",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vFiltrosPCP",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "{<fuente = {'PCP'},hidro,bloque,etapa,fecha_hora_version,Fecha= {\">$(=DATE(MAX({<fuente = {'PCP'},hidro,bloque,etapa,fecha_hora_version>}Fecha)-7))\"},fecha_version= {\"$(=MAX({<fuente = {'PCP'},hidro,bloque,etapa,fecha_hora_version>}fecha_version))\"}>}",
+  "tags": []
+}

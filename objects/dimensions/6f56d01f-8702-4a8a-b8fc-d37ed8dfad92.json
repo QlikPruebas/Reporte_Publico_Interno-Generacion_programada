@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "6f56d01f-8702-4a8a-b8fc-d37ed8dfad92",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "empresa"
+    ],
+    "qFieldLabels": [
+      "Empresa"
+    ],
+    "qLabelExpression": "='Empresa'",
+    "title": "Empresa",
+    "coloring": {
+      "colorMapRef": "kQHQeD",
+      "changeHash": "0.9063199097540762"
+    }
+  },
+  "qMetaDef": {
+    "title": "Empresa",
+    "description": "",
+    "tags": []
+  }
+}

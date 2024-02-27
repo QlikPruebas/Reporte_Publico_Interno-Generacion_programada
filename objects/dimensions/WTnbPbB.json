@@ -1,0 +1,25 @@
+{
+  "qInfo": {
+    "qId": "WTnbPbB",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Semana"
+    ],
+    "qFieldLabels": [
+      "Semana"
+    ],
+    "qLabelExpression": "='Semana'",
+    "title": "Semana",
+    "coloring": {
+      "changeHash": "0.2121857236682121"
+    }
+  },
+  "qMetaDef": {
+    "title": "Semana",
+    "description": "",
+    "tags": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "qInfo": {
+    "qId": "QGBjzj",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "PMP - PCP",
+    "qDef": "(\r\n  [Generacion PMP]\n  -\n  [Generacion PCP]\n)\n",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qLabelExpression": "='Generación ['&vEscalaGeneracion&'] - PMP - PCP'",
+    "qNumFormat": {
+      "qType": "F",
+      "qnDec": 2,
+      "qUseThou": 0,
+      "qFmt": "#,##0",
+      "qDec": ".",
+      "qThou": ","
+    },
+    "coloring": {},
+    "isCustomFormatted": false
+  },
+  "qMetaDef": {
+    "title": "PMP - PCP",
+    "description": "",
+    "tags": []
+  }
+}

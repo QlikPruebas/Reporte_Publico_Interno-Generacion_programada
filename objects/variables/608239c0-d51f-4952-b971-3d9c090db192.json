@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "608239c0-d51f-4952-b971-3d9c090db192",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vRecargado",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "IF(\t\n\tDATE(FLOOR(RELOADTIME()),'DD/MM/YYYY ')&NUM(HOUR(RELOADTIME()),'00 ')&NUM(MINUTE(RELOADTIME()),'00') //Horario de recarga\n\t>= \n    DATE(FLOOR(NOW()),'DD/MM/YYYY ')&NUM(HOUR(NOW()),'00 ')&NUM(MINUTE(NOW()),'00'), //Horario actual\n    \t'Recargado',\n   \t \t'Recargar'\n)",
+  "tags": []
+}

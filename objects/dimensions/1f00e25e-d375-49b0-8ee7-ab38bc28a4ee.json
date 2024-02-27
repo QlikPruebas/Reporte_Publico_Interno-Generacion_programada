@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "1f00e25e-d375-49b0-8ee7-ab38bc28a4ee",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "nombre_barra"
+    ],
+    "qFieldLabels": [
+      "Barra"
+    ],
+    "qLabelExpression": "='Barra'",
+    "title": "Barra",
+    "coloring": {
+      "colorMapRef": "1f00e25e-d375-49b0-8ee7-ab38bc28a4ee",
+      "changeHash": "0.8928074142902631"
+    }
+  },
+  "qMetaDef": {
+    "title": "Barra",
+    "description": "",
+    "tags": []
+  }
+}

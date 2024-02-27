@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "KGpaG",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "nombre_central"
+    ],
+    "qFieldLabels": [
+      "Central"
+    ],
+    "qLabelExpression": "='Central'",
+    "title": "Central",
+    "coloring": {
+      "changeHash": "0.7594149859061881",
+      "colorMapRef": "KGpaG"
+    }
+  },
+  "qMetaDef": {
+    "title": "Central",
+    "description": "",
+    "tags": []
+  }
+}

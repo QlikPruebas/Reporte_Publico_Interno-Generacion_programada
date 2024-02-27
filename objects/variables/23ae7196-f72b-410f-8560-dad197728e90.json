@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "23ae7196-f72b-410f-8560-dad197728e90",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vSinFiltrosPLP",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "{<fuente_indhor={'PLP'},hidro = {'MEDIA'},fecha_hora_version, fecha_version= {\"$(=MAX({<fuente_indhor = {'PLP'},hidro = {'MEDIA'},fecha_hora_version>}fecha_version))\"}>}",
+  "tags": []
+}

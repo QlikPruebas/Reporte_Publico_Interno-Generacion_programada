@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "e9be1897-8e65-4d52-a536-65c2843aedc6",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "hidro"
+    ],
+    "qFieldLabels": [
+      "Hidrología"
+    ],
+    "qLabelExpression": "='Hidrología'",
+    "title": "Hidrología",
+    "coloring": {
+      "colorMapRef": "kQHQeD",
+      "changeHash": "0.7798648222761058"
+    }
+  },
+  "qMetaDef": {
+    "title": "Hidrología",
+    "description": "",
+    "tags": []
+  }
+}

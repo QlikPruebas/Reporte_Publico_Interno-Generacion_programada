@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "12f34a49-c6f4-420d-800b-f1ea0555e16b",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "intervalo"
+    ],
+    "qFieldLabels": [
+      "Intervalo"
+    ],
+    "qLabelExpression": "='Intervalo'",
+    "title": "Intervalo",
+    "coloring": {
+      "colorMapRef": "kQHQeD",
+      "changeHash": "0.23388073075939886"
+    }
+  },
+  "qMetaDef": {
+    "title": "Intervalo",
+    "description": "",
+    "tags": []
+  }
+}

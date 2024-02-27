@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "pnHQ",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "MesAño"
+    ],
+    "qFieldLabels": [
+      "MesAño"
+    ],
+    "qLabelExpression": "='Mes'",
+    "title": "MesAño",
+    "coloring": {
+      "changeHash": "0.7848293180976273",
+      "colorMapRef": "pnHQ"
+    }
+  },
+  "qMetaDef": {
+    "title": "MesAño",
+    "description": "",
+    "tags": []
+  }
+}

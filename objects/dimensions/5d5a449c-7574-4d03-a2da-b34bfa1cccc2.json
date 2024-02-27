@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "5d5a449c-7574-4d03-a2da-b34bfa1cccc2",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Fecha_Hora"
+    ],
+    "qFieldLabels": [
+      "Fecha Hora"
+    ],
+    "qLabelExpression": "='Fecha Hora'",
+    "title": "Fecha Hora",
+    "coloring": {
+      "colorMapRef": "5d5a449c-7574-4d03-a2da-b34bfa1cccc2",
+      "changeHash": "0.24753354489596258"
+    }
+  },
+  "qMetaDef": {
+    "title": "Fecha Hora",
+    "description": "",
+    "tags": []
+  }
+}

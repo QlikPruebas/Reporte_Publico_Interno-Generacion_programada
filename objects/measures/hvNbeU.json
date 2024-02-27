@@ -1,0 +1,29 @@
+{
+  "qInfo": {
+    "qId": "hvNbeU",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Generacion PMP",
+    "qDef": "(\r\nSUM(\n          $(=\n              IF(GetSelectedCount(Fecha)=0 AND GetSelectedCount(Fecha_Hora)=0 AND GetSelectedCount(Mes)=0 AND GetSelectedCount(Año)=0 AND GetSelectedCount(hidro)=0 AND GetSelectedCount(Fecha_Efectiva)=0 AND GetSelectedCount(fecha_version_indhor)=0 AND GetSelectedCount(fecha_version)=0,\n              vFiltrosPMP,\n              vSinFiltrosPMP\n              )\n          )\n      gen_pot)\n\n/ \n\n$(vEscalaValor)\n)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qLabelExpression": "='Generación ['&vEscalaGeneracion&']'",
+    "qNumFormat": {
+      "qType": "F",
+      "qnDec": 2,
+      "qUseThou": 0,
+      "qFmt": "#,##0.0",
+      "qDec": ".",
+      "qThou": ","
+    },
+    "coloring": {},
+    "isCustomFormatted": false
+  },
+  "qMetaDef": {
+    "title": "Generacion PMP",
+    "description": "",
+    "tags": []
+  }
+}

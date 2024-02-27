@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "gTgFGmz",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "cuenca"
+    ],
+    "qFieldLabels": [
+      "Cuenca"
+    ],
+    "qLabelExpression": "='Cuenca'",
+    "title": "Cuenca",
+    "coloring": {
+      "changeHash": "0.48645971015557055",
+      "colorMapRef": "gTgFGmz"
+    }
+  },
+  "qMetaDef": {
+    "title": "Cuenca",
+    "description": "",
+    "tags": []
+  }
+}

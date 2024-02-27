@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "Bebrm",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "=DiaMesHora&' h'"
+    ],
+    "qFieldLabels": [
+      "DiaMesHora"
+    ],
+    "qLabelExpression": "='DíaMesHora'",
+    "title": "DiaMesHora",
+    "coloring": {
+      "changeHash": "0.1581012942558213",
+      "colorMapRef": "Bebrm"
+    }
+  },
+  "qMetaDef": {
+    "title": "DiaMesHora",
+    "description": "",
+    "tags": []
+  }
+}

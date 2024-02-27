@@ -1,0 +1,25 @@
+{
+  "qInfo": {
+    "qId": "ptdbJD",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "fecha_version"
+    ],
+    "qFieldLabels": [
+      "Fecha Versión"
+    ],
+    "qLabelExpression": "='Fecha Versión'",
+    "title": "Fecha Versión",
+    "coloring": {
+      "changeHash": "0.17812673974100846"
+    }
+  },
+  "qMetaDef": {
+    "title": "Fecha Versión",
+    "description": "",
+    "tags": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "qInfo": {
+    "qId": "6f859b2f-058f-4094-acf2-03552a12dae2",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "S_PROYECTO",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "PRG"
+}

@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "4ceb29f0-b83b-41fe-b11a-de3b3ec91e90",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "arreglo"
+    ],
+    "qFieldLabels": [
+      "Arreglo"
+    ],
+    "qLabelExpression": "='Arreglo'",
+    "title": "Arreglo",
+    "coloring": {
+      "colorMapRef": "kQHQeD",
+      "changeHash": "0.22458641109624344"
+    }
+  },
+  "qMetaDef": {
+    "title": "Arreglo",
+    "description": "",
+    "tags": []
+  }
+}

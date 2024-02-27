@@ -1,0 +1,14 @@
+{
+  "qInfo": {
+    "qId": "419ca95a-624c-43c8-bff2-e8c7d67ef4b9",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "S_TABLA",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "GENERACION_PROGRAMADA"
+}

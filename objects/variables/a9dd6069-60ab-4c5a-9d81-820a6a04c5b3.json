@@ -1,0 +1,14 @@
+{
+  "qInfo": {
+    "qId": "a9dd6069-60ab-4c5a-9d81-820a6a04c5b3",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "S_RUTA",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "lib://STG/PLATAFORMA PROGRAMACION/"
+}

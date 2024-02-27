@@ -1,0 +1,25 @@
+{
+  "qInfo": {
+    "qId": "dbRnR",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Hora"
+    ],
+    "qFieldLabels": [
+      "Hora"
+    ],
+    "qLabelExpression": "='Hora'",
+    "title": "Hora",
+    "coloring": {
+      "changeHash": "0.8175939063132784"
+    }
+  },
+  "qMetaDef": {
+    "title": "Hora",
+    "description": "",
+    "tags": []
+  }
+}

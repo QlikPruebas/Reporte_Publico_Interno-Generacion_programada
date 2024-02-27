@@ -1,0 +1,14 @@
+{
+  "qInfo": {
+    "qId": "9c4524f7-be35-43ea-84cb-b9a2e505686d",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "S_ETAPA",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "STG"
+}

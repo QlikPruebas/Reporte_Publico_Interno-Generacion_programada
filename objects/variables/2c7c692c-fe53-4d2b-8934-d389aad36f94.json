@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "2c7c692c-fe53-4d2b-8934-d389aad36f94",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vFiltrosPMP",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "{<fuente = {'PMP'},HidroFiltro={'MEDIA'},fecha_hora_version, AñoMesNum= {\"<$(=MIN({<fuente = {'PMP'},HidroFiltro={'MEDIA'},fecha_hora_version>}AñoMesNum)+1)\"},fecha_version= {\"$(=MAX({<fuente = {'PMP'},HidroFiltro={'MEDIA'},fecha_hora_version>}fecha_version))\"}>}",
+  "tags": []
+}

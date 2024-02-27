@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "GJcmq",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "etapa"
+    ],
+    "qFieldLabels": [
+      "etapa"
+    ],
+    "qLabelExpression": "='Etapa'",
+    "title": "etapa",
+    "coloring": {
+      "changeHash": "0.3717114151088414",
+      "colorMapRef": "GJcmq"
+    }
+  },
+  "qMetaDef": {
+    "title": "etapa",
+    "description": "",
+    "tags": []
+  }
+}

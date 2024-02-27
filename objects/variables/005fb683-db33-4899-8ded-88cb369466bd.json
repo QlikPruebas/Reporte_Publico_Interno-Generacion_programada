@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "005fb683-db33-4899-8ded-88cb369466bd",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vEscalaGeneracion",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "MWh",
+  "tags": []
+}

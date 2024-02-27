@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "ecde150a-8b78-4e1b-b970-d7d376d7a9d1",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vSinFiltrosComparacion",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "{<0>}",
+  "tags": []
+}

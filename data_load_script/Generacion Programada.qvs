@@ -1,0 +1,27 @@
+///$tab Generacion Programada
+GENERACION_PROGRAMADA:
+LOAD
+    %KEY_BLOQUE_FUENTE_VERSION,
+    %KEY_DICCIONARIO_CENTRALES,
+    gen_pot,
+    unidad,
+    intervalo,
+    nombre_barra,
+    fuente,
+    flag,
+    fecha_version,
+    fecha_hora_version,
+    numero_version,
+    gen_ener,
+    pot_max,
+    rendimiento_central,
+    caudal_turbinado,
+    iny_pot,
+    iny_ener,
+    costo_variable,
+    costo_operacion,
+    bloque,
+    etapa,
+    hidro,
+    hidro	AS HidroFiltro
+FROM [lib://STG/PLATAFORMA PROGRAMACION/STG_PRG_GENERACION_PROGRAMADA.qvd] (qvd);

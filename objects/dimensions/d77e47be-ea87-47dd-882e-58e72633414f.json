@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "d77e47be-ea87-47dd-882e-58e72633414f",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Año"
+    ],
+    "qFieldLabels": [
+      "Año"
+    ],
+    "qLabelExpression": "='Año'",
+    "title": "Año",
+    "coloring": {
+      "colorMapRef": "d77e47be-ea87-47dd-882e-58e72633414f",
+      "changeHash": "0.7284017979865538"
+    }
+  },
+  "qMetaDef": {
+    "title": "Año",
+    "description": "",
+    "tags": []
+  }
+}

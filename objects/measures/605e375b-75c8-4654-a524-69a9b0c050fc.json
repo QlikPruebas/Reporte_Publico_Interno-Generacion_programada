@@ -1,0 +1,29 @@
+{
+  "qInfo": {
+    "qId": "605e375b-75c8-4654-a524-69a9b0c050fc",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "PLP - PMP",
+    "qDef": "(\r\n  [Generacion PLP]\n  -\n  [Generacion PMP]\n)\n",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qLabelExpression": "='Generación ['&vEscalaGeneracion&'] - PLP - PMP'",
+    "qNumFormat": {
+      "qType": "F",
+      "qnDec": 2,
+      "qUseThou": 0,
+      "qFmt": "#,##0",
+      "qDec": ".",
+      "qThou": ","
+    },
+    "coloring": {},
+    "isCustomFormatted": false
+  },
+  "qMetaDef": {
+    "title": "PLP - PMP",
+    "description": "",
+    "tags": []
+  }
+}

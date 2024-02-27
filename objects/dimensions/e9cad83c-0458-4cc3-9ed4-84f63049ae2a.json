@@ -1,0 +1,386 @@
+{
+  "qInfo": {
+    "qId": "e9cad83c-0458-4cc3-9ed4-84f63049ae2a",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "sub_tipo_tecnologia"
+    ],
+    "qFieldLabels": [
+      "Sub-Tipo Tecnología"
+    ],
+    "qLabelExpression": "='Sub-Tipo Tecnología'",
+    "title": "Sub-Tipo Tecnología",
+    "coloring": {
+      "colorMapRef": "e9cad83c-0458-4cc3-9ed4-84f63049ae2a",
+      "changeHash": "0.23715573382540822"
+    }
+  },
+  "qMetaDef": {
+    "title": "Sub-Tipo Tecnología",
+    "description": "",
+    "tags": []
+  },
+  "_ColorMapModel": {
+    "qInfo": {
+      "qId": "ColorMapModel_e9cad83c-0458-4cc3-9ed4-84f63049ae2a",
+      "qType": "ColorMap"
+    },
+    "qMeta": {
+      "title": "",
+      "description": "",
+      "createdDate": "2023-12-03T17:04:29.125Z",
+      "modifiedDate": "2024-02-22T17:40:14.368Z",
+      "published": true,
+      "publishTime": "2023-12-03T17:04:29.611Z",
+      "approved": true,
+      "qSize": -1,
+      "sourceObject": "",
+      "draftObject": ""
+    },
+    "colorMap": {
+      "colors": [
+        {
+          "value": "Biomasa",
+          "baseColor": {
+            "color": "#6E32A0",
+            "index": -1
+          }
+        },
+        {
+          "value": "CARBON",
+          "baseColor": {
+            "color": "#7B7B7B",
+            "index": -1
+          }
+        },
+        {
+          "value": "Concentrador Solar",
+          "baseColor": {
+            "color": "#F2B800",
+            "index": -1
+          }
+        },
+        {
+          "value": "en revision",
+          "baseColor": {
+            "color": "#10cfc9",
+            "index": 5
+          }
+        },
+        {
+          "value": "Geotérmica",
+          "baseColor": {
+            "color": "#405168",
+            "index": -1
+          }
+        },
+        {
+          "value": "Hidroeléctrica de embalse",
+          "baseColor": {
+            "color": "#7698D4",
+            "index": -1
+          }
+        },
+        {
+          "value": "Hidroeléctrica de pasada",
+          "baseColor": {
+            "color": "#508CFA",
+            "index": -1
+          }
+        },
+        {
+          "value": "Minihidro de pasada",
+          "baseColor": {
+            "color": "#508cfa",
+            "index": -1
+          }
+        },
+        {
+          "value": "Parque eólico",
+          "baseColor": {
+            "color": "#669E40",
+            "index": -1
+          }
+        },
+        {
+          "value": "Parque fotovoltaico",
+          "baseColor": {
+            "color": "#F2B800",
+            "index": -1
+          }
+        },
+        {
+          "value": "Parque fotovoltaico con almacenamiento",
+          "baseColor": {
+            "color": "#F2B800",
+            "index": -1
+          }
+        },
+        {
+          "value": "Motor de combustión interna",
+          "baseColor": {
+            "color": "#7030A0",
+            "index": -1
+          }
+        },
+        {
+          "value": "Termoeléctrica de ciclo combinado",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "Termoeléctrica de ciclo combinado / Termoeléctrica de turbina a vapor",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "Termoeléctrica de ciclo combinado / Termoeléctrica de turbina a vapor/ Termoeléctrica de turbina a gas",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "Termoeléctrica de turbina a gas",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "Termoeléctrica de turbina a gas / Motor de combustión interna",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "Termoeléctrica de turbina a vapor",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "-",
+          "baseColor": {
+            "color": "#10cfc9",
+            "index": 5
+          }
+        },
+        {
+          "value": "",
+          "baseColor": {
+            "color": "#10cfc9",
+            "index": 5
+          }
+        },
+        {
+          "value": "GEOTERMICA",
+          "baseColor": {
+            "color": "#405168",
+            "index": -1
+          }
+        },
+        {
+          "value": "HIDROELECTRICA DE EMBALSE",
+          "baseColor": {
+            "color": "#7698D4",
+            "index": -1
+          }
+        },
+        {
+          "value": "HIDROELECTRICA DE PASADA",
+          "baseColor": {
+            "color": "#508CFA",
+            "index": -1
+          }
+        },
+        {
+          "value": "MINIHIDRO DE PASADA",
+          "baseColor": {
+            "color": "#508CFA",
+            "index": -1
+          }
+        },
+        {
+          "value": "MOTOR DE COMBUSTION INTERNA",
+          "baseColor": {
+            "color": "#7030A0",
+            "index": -1
+          }
+        },
+        {
+          "value": "TERMOSOLAR DE CONCENTRACION",
+          "baseColor": {
+            "color": "#FF3333",
+            "index": -1
+          }
+        },
+        {
+          "value": "TERMOELECTRICA DE CICLO COMBINADO",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "TERMOELECTRICA DE CICLO COMBINADO / TERMOELECTRICA DE TURBINA A VAPOR",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "TERMOELECTRICA DE CICLO COMBINADO / TERMOELECTRICA DE TURBINA A VAPOR/ TERMOELECTRICA DE TURBINA A GAS",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "TERMOELECTRICA DE TURBINA A GAS",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "TERMOELECTRICA DE TURBINA A GAS / MOTOR DE COMBUSTION INTERNA",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "TERMOELECTRICA DE TURBINA A VAPOR",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "PARQUE FOTOVOLTAICO",
+          "baseColor": {
+            "color": "#F2B800",
+            "index": -1
+          }
+        },
+        {
+          "value": "PARQUE FOTOVOLTAICO CON ALMACENAMIENTO",
+          "baseColor": {
+            "color": "#F2B800",
+            "index": -1
+          }
+        },
+        {
+          "value": "PARQUE EOLICO",
+          "baseColor": {
+            "color": "#669E40",
+            "index": -1
+          }
+        },
+        {
+          "value": "Geotermica",
+          "baseColor": {
+            "color": "#405168",
+            "index": -1
+          }
+        },
+        {
+          "value": "Hidroelectrica de embalse",
+          "baseColor": {
+            "color": "#7698d4",
+            "index": -1
+          }
+        },
+        {
+          "value": "Hidroelectrica de pasada",
+          "baseColor": {
+            "color": "#508cfa",
+            "index": -1
+          }
+        },
+        {
+          "value": "Parque eolico",
+          "baseColor": {
+            "color": "#669440",
+            "index": -1
+          }
+        },
+        {
+          "value": "Concentrador solar",
+          "baseColor": {
+            "color": "#C4CFDA",
+            "index": -1
+          }
+        },
+        {
+          "value": "Motor de combustion interna",
+          "baseColor": {
+            "color": "#7030A0",
+            "index": -1
+          }
+        },
+        {
+          "value": "Termoelectrica de ciclo combinado",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "Termoelectrica de ciclo combinado / termoelectrica de turbina a vapor",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "Termoelectrica de ciclo combinado / termoelectrica de turbina a vapor/ termoelectrica de turbina a gas",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "Termoelectrica de turbina a gas",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "Termoelectrica de turbina a gas / motor de combustion interna",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "Termoelectrica de turbina a vapor",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        }
+      ],
+      "nul": null,
+      "oth": null,
+      "pal": "100",
+      "single": {
+        "color": "#4477aa",
+        "index": -1
+      },
+      "usePal": true,
+      "autoFill": false
+    }
+  }
+}

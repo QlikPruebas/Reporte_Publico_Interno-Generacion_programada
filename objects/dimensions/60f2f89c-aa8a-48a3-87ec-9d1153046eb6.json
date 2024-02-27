@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "60f2f89c-aa8a-48a3-87ec-9d1153046eb6",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "clasificacion"
+    ],
+    "qFieldLabels": [
+      "Clasificación"
+    ],
+    "qLabelExpression": "='Clasificación'",
+    "title": "Clasificación",
+    "coloring": {
+      "colorMapRef": "60f2f89c-aa8a-48a3-87ec-9d1153046eb6",
+      "changeHash": "0.6947804341178139"
+    }
+  },
+  "qMetaDef": {
+    "title": "Clasificación",
+    "description": "",
+    "tags": []
+  }
+}

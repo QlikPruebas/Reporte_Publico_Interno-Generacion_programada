@@ -1,0 +1,29 @@
+{
+  "qInfo": {
+    "qId": "5ababd7d-48f0-496a-a6d4-895957d1ddd9",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Generacion PLP",
+    "qDef": "(\r\nSUM(\n          $(=\n\n               \t\tIF(GetSelectedCount(Fecha)=0 AND GetSelectedCount(Fecha_Hora)=0 AND GetSelectedCount(Mes)=0 AND GetSelectedCount(Año)=0 AND GetSelectedCount(Fecha_Efectiva)=0 AND GetSelectedCount(fecha_version_indhor)=0 AND GetSelectedCount(fecha_version)=0, \n              \t\t\tvFiltrosPLP,\n              \t\t\tvSinFiltrosPLP\n                        \n              \t\t)\n          )\n      gen_pot)\n\n/ \n\n$(vEscalaValor)\n)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qLabelExpression": "='Generación ['&vEscalaGeneracion&']'",
+    "qNumFormat": {
+      "qType": "F",
+      "qnDec": 2,
+      "qUseThou": 0,
+      "qFmt": "#,##0.0",
+      "qDec": ".",
+      "qThou": ","
+    },
+    "coloring": {},
+    "isCustomFormatted": false
+  },
+  "qMetaDef": {
+    "title": "Generacion PLP",
+    "description": "",
+    "tags": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "JkVT",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "fuente"
+    ],
+    "qFieldLabels": [
+      "Fuente"
+    ],
+    "qLabelExpression": "='Fuente'",
+    "title": "Fuente",
+    "coloring": {
+      "changeHash": "0.5002692594247931",
+      "colorMapRef": "JkVT"
+    }
+  },
+  "qMetaDef": {
+    "title": "Fuente",
+    "description": "",
+    "tags": []
+  }
+}

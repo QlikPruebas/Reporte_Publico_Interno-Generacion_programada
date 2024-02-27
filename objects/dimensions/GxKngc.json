@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "GxKngc",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "unidades_centrales"
+    ],
+    "qFieldLabels": [
+      "Unidad Central"
+    ],
+    "qLabelExpression": "='Unidad Central'",
+    "title": "Unidad Central",
+    "coloring": {
+      "changeHash": "0.05954680220807518",
+      "colorMapRef": "GxKngc"
+    }
+  },
+  "qMetaDef": {
+    "title": "Unidad Central",
+    "description": "",
+    "tags": []
+  }
+}

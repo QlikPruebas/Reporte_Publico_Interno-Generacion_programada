@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "4cb524e4-8509-488f-8c07-11f39a405efb",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vFiltrosPID",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "{<fuente = {'PID'},hidro,bloque,etapa,Fecha= {\">$(=DATE(MAX({<fuente = {'PID'},hidro,bloque,etapa>}Fecha)-2))\"},fecha_version= {\"$(=MAX({<fuente = {'PID'},hidro,bloque,etapa>}fecha_version))\"}>}",
+  "tags": []
+}

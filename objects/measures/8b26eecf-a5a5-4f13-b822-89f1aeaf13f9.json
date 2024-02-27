@@ -1,0 +1,29 @@
+{
+  "qInfo": {
+    "qId": "8b26eecf-a5a5-4f13-b822-89f1aeaf13f9",
+    "qType": "measure"
+  },
+  "qMeasure": {
+    "qLabel": "Generacion PCP",
+    "qDef": "SUM(\r\n\t$(=\n    \tIF(GetSelectedCount(Fecha)=0 AND GetSelectedCount(Fecha_Hora)=0 AND GetSelectedCount(Mes)=0 AND GetSelectedCount(Año)=0 AND GetSelectedCount(Fecha_Efectiva)=0 AND GetSelectedCount(fecha_version_indhor)=0 AND GetSelectedCount(fecha_version)=0,\n    \tvFiltrosPCP,\n        vSinFiltrosPCP\n    \t)\n    )\ngen_pot)\n/ \n\n$(vEscalaValor)",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qLabelExpression": "='Generación ['&vEscalaGeneracion&']'",
+    "qNumFormat": {
+      "qType": "F",
+      "qnDec": 2,
+      "qUseThou": 0,
+      "qFmt": "#,##0.0",
+      "qDec": ".",
+      "qThou": ","
+    },
+    "coloring": {},
+    "isCustomFormatted": false
+  },
+  "qMetaDef": {
+    "title": "Generacion PCP",
+    "description": "",
+    "tags": []
+  }
+}

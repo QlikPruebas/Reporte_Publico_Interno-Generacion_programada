@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "bb16dc3a-358d-4a7b-943d-1fb07350edf4",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "terminal_gnl"
+    ],
+    "qFieldLabels": [
+      "Terminal"
+    ],
+    "qLabelExpression": "='Terminal'",
+    "title": "Terminal",
+    "coloring": {
+      "colorMapRef": "bb16dc3a-358d-4a7b-943d-1fb07350edf4",
+      "changeHash": "0.548631021533494"
+    }
+  },
+  "qMetaDef": {
+    "title": "Terminal",
+    "description": "",
+    "tags": []
+  }
+}

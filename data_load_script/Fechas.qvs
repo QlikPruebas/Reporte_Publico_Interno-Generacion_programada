@@ -1,0 +1,41 @@
+///$tab Fechas
+//PMP Y PLP viene por bloque y requiere la indhor para obtener fecha
+CALENDARIO:
+LOAD
+    %KEY_BLOQUE_FUENTE_VERSION,
+    AñoMesNum,	
+    MesAño,
+	Mes,
+    Año,
+    Semana,
+    Dia,
+    Hora,
+	DiaMesHora,
+    Fecha,
+    Fecha_Hora,
+    Fecha_Efectiva,
+    fuente_indhor,
+    fecha_version_indhor,
+    numero_version_indhor
+FROM [lib://STG/PLATAFORMA PROGRAMACION/STG_PRG_DIM_INDHOR.qvd] (qvd); 
+
+//PCP y PID no requiere de la indhor ya viene con fecha pero se requiere unificar campos de fecha.
+CONCATENATE(CALENDARIO)
+LOAD
+    %KEY_BLOQUE_FUENTE_VERSION,
+    AñoMesNum,	
+    MesAño,
+	Mes,
+    Año,
+    Semana,
+    Dia,
+    Hora,
+	DiaMesHora,
+    Fecha,
+    Fecha_Hora,
+    Fecha_Efectiva,
+    fecha_version		AS fecha_version_indhor,
+    numero_version		AS numero_version_indhor,
+    fuente				AS fuente_indhor
+FROM [lib://STG/PLATAFORMA PROGRAMACION/STG_PRG_GENERACION_PROGRAMADA.qvd] (qvd)
+WHERE MATCH(fuente,'PCP','PID')>0;

@@ -1,0 +1,169 @@
+{
+  "qInfo": {
+    "qId": "Ysyp",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "tecnologia"
+    ],
+    "qFieldLabels": [
+      "Tecnología"
+    ],
+    "qLabelExpression": "='Tecnología'",
+    "title": "Tecnología",
+    "coloring": {
+      "changeHash": "0.42081724630153783",
+      "colorMapRef": "Ysyp"
+    }
+  },
+  "qMetaDef": {
+    "title": "Tecnología",
+    "description": "",
+    "tags": []
+  },
+  "_ColorMapModel": {
+    "qInfo": {
+      "qId": "ColorMapModel_Ysyp",
+      "qType": "ColorMap"
+    },
+    "qMeta": {
+      "title": "",
+      "description": "",
+      "createdDate": "2023-12-03T17:04:29.125Z",
+      "modifiedDate": "2024-02-22T17:40:14.368Z",
+      "published": true,
+      "publishTime": "2023-12-03T17:04:29.580Z",
+      "approved": true,
+      "qSize": -1,
+      "sourceObject": "",
+      "draftObject": ""
+    },
+    "colorMap": {
+      "colors": [
+        {
+          "value": "Geotérmica",
+          "baseColor": {
+            "color": "#405168",
+            "index": -1
+          }
+        },
+        {
+          "value": "Eólicas",
+          "baseColor": {
+            "color": "#669E40",
+            "index": -1
+          }
+        },
+        {
+          "value": "Hidroeléctricas",
+          "baseColor": {
+            "color": "#0070C0",
+            "index": -1
+          }
+        },
+        {
+          "value": "Solares",
+          "baseColor": {
+            "color": "#F2B800",
+            "index": -1
+          }
+        },
+        {
+          "value": "Termoeléctricas",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "en revision",
+          "baseColor": {
+            "color": "#10cfc9",
+            "index": 5
+          }
+        },
+        {
+          "value": "GEOTERMICA",
+          "baseColor": {
+            "color": "#405168",
+            "index": -1
+          }
+        },
+        {
+          "value": "EOLICAS",
+          "baseColor": {
+            "color": "#669E40",
+            "index": -1
+          }
+        },
+        {
+          "value": "HIDROELECTRICAS",
+          "baseColor": {
+            "color": "#0070C0",
+            "index": -1
+          }
+        },
+        {
+          "value": "SOLARES",
+          "baseColor": {
+            "color": "#F2B800",
+            "index": -1
+          }
+        },
+        {
+          "value": "TERMOELECTRICAS",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        },
+        {
+          "value": "",
+          "baseColor": {
+            "color": "#10cfc9",
+            "index": 5
+          }
+        },
+        {
+          "value": "Geotermica",
+          "baseColor": {
+            "color": "#405168",
+            "index": -1
+          }
+        },
+        {
+          "value": "Eolicas",
+          "baseColor": {
+            "color": "#669440",
+            "index": -1
+          }
+        },
+        {
+          "value": "Hidroelectricas",
+          "baseColor": {
+            "color": "#0070C0",
+            "index": -1
+          }
+        },
+        {
+          "value": "Termoelectricas",
+          "baseColor": {
+            "color": "#DB5503",
+            "index": -1
+          }
+        }
+      ],
+      "nul": null,
+      "oth": null,
+      "pal": "100",
+      "single": {
+        "color": "#4477aa",
+        "index": -1
+      },
+      "usePal": true,
+      "autoFill": false
+    }
+  }
+}

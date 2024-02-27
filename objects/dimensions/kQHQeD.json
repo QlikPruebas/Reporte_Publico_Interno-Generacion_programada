@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "kQHQeD",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "pais"
+    ],
+    "qFieldLabels": [
+      "País"
+    ],
+    "qLabelExpression": "='País'",
+    "title": "País",
+    "coloring": {
+      "changeHash": "0.7058695282202485",
+      "colorMapRef": "kQHQeD"
+    }
+  },
+  "qMetaDef": {
+    "title": "País",
+    "description": "",
+    "tags": []
+  }
+}
